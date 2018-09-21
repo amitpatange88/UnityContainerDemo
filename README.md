@@ -35,3 +35,5 @@ Unity Container Features:
 Before we start working with Unity container, let's learn how to install it, in the next chapter.
 </p>
 </article>
+
+<img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/4d9083/dependency-injection-using-microsoft-unity-framework/Images/Flow%20of%20Dependency%20Inversion%20Principal.jpg"/>
